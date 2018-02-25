@@ -7,5 +7,13 @@
 		  "exposition": 9,
 		  "flip": false
 		}
+	],
+	"server": [
+        {
+            "id": "1",
+            "machine": "abc",
+            "ip": "11.11.11.11"
+		}
 	]
+}
 }
