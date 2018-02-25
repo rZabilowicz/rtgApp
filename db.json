@@ -1,0 +1,11 @@
+{
+  "properties": [
+		{
+		  "operator": "Adam",
+		  "name": "asdasd",
+		  "contrast": 92,
+		  "exposition": 9,
+		  "flip": false
+		}
+	]
+}
