@@ -6,7 +6,8 @@
 		  "name": "asdasd",
 		  "contrast": 92,
 		  "exposition": 9,
-		  "flip": false
+		  "flip": false,
+		  "snap": false
 		}
 	],
 	"server": [
