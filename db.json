@@ -1,6 +1,7 @@
 {
   "properties": [
 		{
+		 "_id": { "$oid": "1"}
 		  "operator": "Adam",
 		  "name": "asdasd",
 		  "contrast": 92,
