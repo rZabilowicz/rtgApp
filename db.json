@@ -1,5 +1,5 @@
 {
-  "properties": [
+ 	 "properties": [
 		{
 		  "id": 1,
 		  "operator": "Adam",
@@ -13,6 +13,14 @@
 	"server": [
         {
             	"IPAddress": "11.11.11.17",
+ 		"port": "1234",
+		"hostname": "abcdef",
+		"connectionStatus": true
+		}
+	],
+	"Captured": [
+        {
+            	"id": "11.11.11.17",
  		"port": "1234",
 		"hostname": "abcdef",
 		"connectionStatus": true
