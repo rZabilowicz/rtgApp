@@ -11,9 +11,8 @@
 		}
 	],
 	"server": [
-        {	"id": 1,
-            	"IPAddress": "11.11.11.17",
- 		"port": "1234",
+        {	"id": 1,"IPAddress":"11.11.11.17",
+ 		"port":"1234",
 		"hostname": "abcdef",
 		"connectionStatus": true
 		}
